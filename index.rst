@@ -241,7 +241,7 @@ Flask-Login 包含了会话保护来帮助阻止用户会话被盗用。
 
     login_manager.session_protection = "strong"
 
-或禁用它:
+或禁用它::
 
     login_manager.session_protection = None
 
